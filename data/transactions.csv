@@ -1,0 +1,8 @@
+branch_id,transaction_date,customer_tier,item_count,revenue
+BR001,2026-10-17,Gold,5,150.75
+BR002,2026-10-17,Silver,3,89.50
+BR003,2026-10-16,Regular,2,45.00
+BR001,2026-10-16,Gold,4,120.25
+BR002,2026-10-15,Regular,6,210.00
+BR004,2026-10-17,Gold,hello,75.00
+BR005,2026-10-17,Silver,-3,100.00
